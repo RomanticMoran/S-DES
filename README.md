@@ -19,6 +19,13 @@
 2.基础加解密算法
 测试案例：使用密钥0011110110对明文011000110111100101101000(ASCIIchenyouhao)进行加密，并通过逆向操作验证解密是否成功：
 
+![ascll加密（二进制输出）](https://github.com/user-attachments/assets/29283839-9cad-4869-8c0a-f1185adbda2d)
+![二进制加密（输出）](https://github.com/user-attachments/assets/8e43bd70-fd5c-4a72-bc60-0688cb077791)
+![ascll加密（乱码输出）](https://github.com/user-attachments/assets/5e5c20d5-5bb3-4318-afd4-34a4f21fd2a3)
+
+![解密过程（输入）](https://github.com/user-attachments/assets/d3e3edc5-a38a-43d0-9580-d4b4720ac00b)
+![解密过程（输出）](https://github.com/user-attachments/assets/1240d576-1eb8-4474-9233-776684256d9c)
+
 3.交叉测试
 经检验，和张函菘同学的测试结果相同，并能正常加解密，证明程序运行成功。
 
